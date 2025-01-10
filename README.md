@@ -1,6 +1,11 @@
 # Google Sheet Clone
 
-A brief description of what your project does.
+Implemented core spreadsheet functionalities: SUM, AVERAGE, MAX, MIN, COUNT. Enabled
+drag-and-drop functionality for content and formulas.
+Included data validation and quality features: TRIM, UPPER, LOWER, FIND_AND_REPLACE,
+REMOVE_DUPLICATES.
+Provided basic cell formatting options for font styles and row/column resizing. Thoroughly
+tested the application for accuracy and performance.
 
 ## Installation
 
