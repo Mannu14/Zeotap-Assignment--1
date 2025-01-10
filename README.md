@@ -12,4 +12,4 @@ A brief description of what your project does.
 3. Start the development server: Using npm:
    npm run dev
 4. Open the project in your browser:
-   Open http://localhost:3000 to view it in the browser.
+   Open http://localhost:5173 to view it in the browser.
